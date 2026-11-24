@@ -1,7 +1,9 @@
 // Make the Judge Smile — make.fun entry
-// Line (141 bytes): warm small good thing today, concrete detail (warung
-// auntie, krupuk, Tuesday), surprise turn at the end — she charges LESS
-// because Tuesdays are for people who look tired.
+// Line (141 bytes, 139 chars): warm small good thing today, concrete
+// detail (warung auntie, krupuk, Tuesday), surprise turn at the end —
+// she charges LESS because Tuesdays are for people who look tired.
+// Criteria order: subject (small good thing today) → warmth → surprise →
+// one concrete detail → fresh wording. No greeting-card phrasing.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
